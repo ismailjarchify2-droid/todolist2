@@ -65,9 +65,3 @@ todolist2/
 * MySQL / MariaDB
 * Bootstrap 5
 * PDO pour la connexion sécurisée à la base de données
-
-## 💡 Notes
-
-* Toujours laisser la colonne `id` en **AUTO_INCREMENT** pour éviter les erreurs de clé primaire.
-* Utiliser `prepare` + `execute` pour sécuriser les inputs et éviter les injections SQL.
-* Faire un `git pull` avant de pusher pour éviter les conflits si plusieurs personnes travaillent sur le projet.
